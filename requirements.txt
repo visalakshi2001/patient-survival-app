@@ -11,4 +11,6 @@ scikit_learn==0.24.2
 Pillow==8.2.0
 scipy==1.6.3
 xgboost==1.4.1
-flask-restful
+itsdangerous==0.24
+Flask-RESTful==0.3.1
+MarkupSafe==0.23
